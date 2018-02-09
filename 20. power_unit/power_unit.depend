@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1505564454 source:c:\users\asus\desktop\power_unit\main.c
+	<stdio.h>
+	<stdlib.h>
+
